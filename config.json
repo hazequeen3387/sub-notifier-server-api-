@@ -1,13 +1,13 @@
 {
   "server_port": 3000,
-  "webhook_secret": "change_this_webhook_secret",
+  "webhook_secret": "Sullivan2006",
   "minecraft": {
     "host": "127.0.0.1",
     "port": 8081,
     "secret": "change_this_plugin_secret"
   },
   "discord": {
-    "token": "YOUR_DISCORD_BOT_TOKEN",
-    "channelId": "DISCORD_TEXT_CHANNEL_ID"
+    "token": "MTM3MjYzODc2MDg1MTczNDU4MA.GJpiQz.7I1M8dYzDm7HzMuzzuShqRn8kmsLTsgAkj9rso",
+    "channelId": "1403571559888846938"
   }
 }
