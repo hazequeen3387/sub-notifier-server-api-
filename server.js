@@ -1,6 +1,6 @@
-const express = require('express');
-const bodyParser = require('body-parser');
-const { Client, GatewayIntentBits } = require('discord.js');
+import express from 'express';
+import bodyParser from 'body-parser';
+import { Client, GatewayIntentBits } from 'discord.js';
 
 const app = express();
 app.use(bodyParser.json());
